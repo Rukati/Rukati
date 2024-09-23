@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Rukati and I'm glad you stopped by. Here is a 
 ## Technical stack
 
 💻 Programming Languages: C++, C#  
-🛠️ Tools: Microsoft Visual Studio (MVS), Visual Studio Code (VSCode)
+🛠️ Tools: Microsoft Visual Studio (MVS), Visual Studio Code (VSCode), JetBrains Rider
 
 ## Fun Facts
 
